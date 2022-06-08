@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+#cabecalho {
+    background-color: rgb(202, 52, 52);
+
+}
+
+#nave {
+    background-color: rgb(175, 25, 25);
+
+}
+
+#sombra {
+    filter: drop-shadow(10px 10px 10px #000000);
+
+}
+
+.bg-Cinzaclaro {
+    background-color: rgba(rgba(216, 134, 27, 0.418)); 
+
+}
+
+* {
+    font-family: 'Satisfy', cursive;
+    font-weight: 700;
+    padding: 0%;
+    margin: 0%;
+}
+
+#tamanhol {
+    font-size: 120px;
+
+}
+
+@keyframes animacao {
+    from {
+        filter: hue-rotate(0deg)
+    }
+
+    to {
+        filter: hue-rotate(360deg)
+    }
+
+}
+
+.animacao {
+    animation: animacao 2s linear infinite;
+
+}
+
+#tamanhonave {
+    font-size: 27px;
+
+}
+
+.carousel-inner>.carousel-item>img {
+    width: 800px;
+    height: 700px;
+
+}
+
+.carousel-control-prev-icon {
+    background-color: #000000;
+
+}
+
+.carousel-control-prev-icon {
+    background-color: #000000;
+
+}
+
+.carousel-control-next-icon {
+    background-color: #000000;
+
+}
+
+.dia {
+    width: 1400px;
+    height: 1000px;
+
+}
+
+.bg-Cinzaclaro {
+    background-color: rgba(255, 73, 1, 0.65);
+    
+}
+
+.dia {
+    background-color: rgba(255, 73, 1, 0.65);
+    width: 1280px;
+    height: 100px;
+    border-radius: 10px;
+
+}
+
+.tela {
+    background-color: rgba(255, 73, 1, 0.65);
+    width: 1300px;
+    height: 900px;
+    border-radius: 10px;
+
+}
+
+.moldura {
+    width: 1000px;
+    height: 800px;
+    border: 4px solid #000000;
+    background: transparent url(_img/tela9.png);
+
+}
+
+.mnv {
+    background-color: rgba(255, 73, 1, 0.65);
+    width: 1300px;
+    height: 900px;
+    border-radius: 10px;
+    
+}
+
+.titulo {
+    background-color: rgba(255, 73, 1, 0.65);
+    width: 1280px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.titulo3 {
+    background-color: #000000;
+    width: 800px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
+
+.titulo4 {
+    background-color: #000000;
+    width: 800px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
+
+.titulo5 {
+    background-color: #000000;
+    width: 1280px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#home-modal .modal-img1 {
+    width: 100%;
+
+}
+
+.corcon {
+    background-color: rgba(255, 73, 1, 0.65);
+    border-radius: 10px;
+}
+
+.border-5 {
+    width: 1000px;
+    border-radius: 10px;
+   
+}
+
+.border-4 {
+    width: 500px;
+    border-radius: 10px;
+
+}
+
+.img-Raul {
+    height: 100px;
+    width: 100px;
+    position: relative;
+	left: 18px;
+	top: -50px;
+    transform: scaleX(-1);
+
+}
+
+.img-Raphalindao {
+    height: 100px;
+    width: 100px;
+    position: relative;
+	right: -1080px;
+	top: -50px;
+
+}
+
+.img-My {
+    height: 150px;
+    width: 150px;
+    position: relative;
+	left: 100px;
+	top: -603px;
+    transform: scaleX(-1);
+
+}
+
+.img-PaiDeSanto {
+    height: 150px;
+    width: 150px;
+    position: relative;
+	left: 100px;
+	top: -595px;
+    transform: scaleX(-1);
+
+}
+
+.img-RaphaLindao {
+    height: 150px;
+    width: 150px;
+    position: relative;
+	left: 100px;
+	top: -585px;
+    transform: scaleX(-1);
+
+}
+
+.iconeSquad {
+    height: 150px;
+    width: 150px;
+    position: relative;
+	left: -300px;
+	top: -100px;
+}
+
